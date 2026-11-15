@@ -1,3 +1,29 @@
+# awesome-ai-coding-tools
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A curated list of AI-powered coding tools
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+AI 编码工具精选清单。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Awesome AI Coding Tools
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
